@@ -1,6 +1,9 @@
 # Cześć, jestem Kacper! 👋
 
-Jestem specjalistą Data Science i Machine Learning, który łączy zaawansowaną analitykę z realną wartością biznesową. W moich projektach stawiam na budowanie kompletnych rozwiązań – od inżynierii danych, przez modelowanie, aż po wdrażanie aplikacji i dashboardów BI.
+### 🎓 Data Scientist | Python Developer
+Szukam swojej pierwszej roli komercyjnej w obszarze Data Science / Analityki Danych.
+
+Jestem pasjonatem danych, który stawia na praktykę. W moich projektach nie tylko trenuję modele, ale buduję kompletne rozwiązania – od surowych danych, przez inżynierię cech, aż po dashboardy biznesowe. Moim celem jest rozwój w zespole, w którym będę mógł przekuć swoją wiedzę i energię w realną wartość dla firmy.
 
 ## 🛠️ Stack Technologiczny
 
