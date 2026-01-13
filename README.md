@@ -28,8 +28,16 @@ Jestem pasjonatem danych, który stawia na praktykę. W moich projektach nie tyl
 
 ## 🚀 Wybrane Projekty
 
+### 📦 [End-to-End Inventory Demand Forecasting](https://github.com/kacper-kaczmarczyk/inventory-demand-forecasting)
+
+W pełni skonteneryzowany system MLOps do prognozowania popytu dla sieci 54 sklepów. Projekt symuluje środowisko produkcyjne, w którym cykl życia modelu jest w pełni zarządzany i zautomatyzowany.
+
+* **Architektura:** System mikroserwisów oparty na **Docker Compose**, łączący niezależne kontenery: Baza Danych ➔ Rejestr Modeli ➔ API ➔ Frontend.
+* **MLOps:** Wykorzystanie **MLflow** do śledzenia eksperymentów i zarządzania wersjami modelu (Model Registry).
+* **Wdrożenie:** Model serwowany przez **FastAPI** (REST API) z interfejsem dla biznesu w **Streamlit**.
+* **Technologie:** `Docker`, `FastAPI`, `MLflow`, `PostgreSQL`, `Streamlit`, `XGBoost`.
+* 
 ### 🛒 [Smart Retail Forecasting](https://github.com/kacper-kaczmarczyk/retail_forecasting)
-**Rola:** Data Scientist / BI Developer
 
 Kompleksowy system przewidywania popytu dla sieci handlowej, łączący Machine Learning z Business Intelligence. Projekt rozwiązuje problem braku towarów (stockouts) oraz nadmiernego magazynowania.
 
