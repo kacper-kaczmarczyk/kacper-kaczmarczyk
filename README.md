@@ -36,7 +36,7 @@ W pełni skonteneryzowany system MLOps do prognozowania popytu dla sieci 54 skle
 * **MLOps:** Wykorzystanie **MLflow** do śledzenia eksperymentów i zarządzania wersjami modelu (Model Registry).
 * **Wdrożenie:** Model serwowany przez **FastAPI** (REST API) z interfejsem dla biznesu w **Streamlit**.
 * **Technologie:** `Docker`, `FastAPI`, `MLflow`, `PostgreSQL`, `Streamlit`, `XGBoost`.
-* 
+
 ### 🛒 [Smart Retail Forecasting](https://github.com/kacper-kaczmarczyk/retail_forecasting)
 
 Kompleksowy system przewidywania popytu dla sieci handlowej, łączący Machine Learning z Business Intelligence. Projekt rozwiązuje problem braku towarów (stockouts) oraz nadmiernego magazynowania.
