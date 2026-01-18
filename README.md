@@ -28,7 +28,16 @@ Jestem pasjonatem danych, który stawia na praktykę. W moich projektach nie tyl
 
 ## 🚀 Wybrane Projekty
 
-### 📦 [End-to-End Inventory Demand Forecasting](https://github.com/kacper-kaczmarczyk/inventory-demand-forecasting)
+### � [Retail Intelligence & Customer Segmentation Dashboard](https://github.com/kacper-kaczmarczyk/Retail-Intelligence-Customer-Segmentation-Dashboard)
+
+Projekt Business Intelligence umożliwiający zaawansowaną analizę sprzedaży i zachowań klientów. Dashboard wspiera podejmowanie decyzji poprzez wizualizację kluczowych wskaźników wydajności (KPI) oraz identyfikację segmentów konsumentów.
+
+* **Raportowanie:** Interaktywny dashboard w **Power BI** integrujący dane.
+* **Proces Danych:** Pipeline ETL w **Pythonie** zapewniający jakość i spójność danych.
+* **Analiza:** Segmentacja klientów.
+* **Technologie:** `Power BI`, `Python`, `Pandas`, `DAX`.
+
+### �📦 [End-to-End Inventory Demand Forecasting](https://github.com/kacper-kaczmarczyk/inventory-demand-forecasting)
 
 W pełni skonteneryzowany system MLOps do prognozowania popytu dla sieci 54 sklepów. Projekt symuluje środowisko produkcyjne, w którym cykl życia modelu jest w pełni zarządzany i zautomatyzowany.
 
